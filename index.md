@@ -120,10 +120,8 @@ Analyse de données publiques françaises afin de :
 
 # Contact
 
-📧 Email : raniamoulaihacene@gmail.com  
+Email : raniamoulaihacene@gmail.com  
 
-💼 LinkedIn :  
-https://www.linkedin.com/in/raniamoulaihacene  
+LinkedIn : https://www.linkedin.com/in/raniamoulaihacene  
 
-💻 GitHub :  
-https://github.com/Rania1h1111
+GitHub : https://github.com/Rania1h1111
